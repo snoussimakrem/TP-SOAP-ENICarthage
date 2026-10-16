@@ -1,0 +1,13 @@
+tn/enicarthage/proxy/GetCompteResponse.class
+tn/enicarthage/proxy/ObjectFactory.class
+tn/enicarthage/proxy/BanqueService.class
+tn/enicarthage/proxy/BanqueWSSOAP.class
+tn/enicarthage/proxy/ConvertResponse.class
+tn/enicarthage/proxy/Convert.class
+tn/enicarthage/proxy/package-info.class
+tn/enicarthage/App.class
+tn/enicarthage/ClientWS.class
+tn/enicarthage/proxy/GetComptesResponse.class
+tn/enicarthage/proxy/GetComptes.class
+tn/enicarthage/proxy/Compte.class
+tn/enicarthage/proxy/GetCompte.class

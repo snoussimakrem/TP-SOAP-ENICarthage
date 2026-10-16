@@ -1,0 +1,13 @@
+/workspaces/TP-SOAP-ENICarthage/ClientSOAP2026/src/main/java/tn/enicarthage/App.java
+/workspaces/TP-SOAP-ENICarthage/ClientSOAP2026/src/main/java/tn/enicarthage/ClientWS.java
+/workspaces/TP-SOAP-ENICarthage/ClientSOAP2026/target/generated-sources/wsimport/tn/enicarthage/proxy/BanqueService.java
+/workspaces/TP-SOAP-ENICarthage/ClientSOAP2026/target/generated-sources/wsimport/tn/enicarthage/proxy/BanqueWSSOAP.java
+/workspaces/TP-SOAP-ENICarthage/ClientSOAP2026/target/generated-sources/wsimport/tn/enicarthage/proxy/Compte.java
+/workspaces/TP-SOAP-ENICarthage/ClientSOAP2026/target/generated-sources/wsimport/tn/enicarthage/proxy/Convert.java
+/workspaces/TP-SOAP-ENICarthage/ClientSOAP2026/target/generated-sources/wsimport/tn/enicarthage/proxy/ConvertResponse.java
+/workspaces/TP-SOAP-ENICarthage/ClientSOAP2026/target/generated-sources/wsimport/tn/enicarthage/proxy/GetCompte.java
+/workspaces/TP-SOAP-ENICarthage/ClientSOAP2026/target/generated-sources/wsimport/tn/enicarthage/proxy/GetCompteResponse.java
+/workspaces/TP-SOAP-ENICarthage/ClientSOAP2026/target/generated-sources/wsimport/tn/enicarthage/proxy/GetComptes.java
+/workspaces/TP-SOAP-ENICarthage/ClientSOAP2026/target/generated-sources/wsimport/tn/enicarthage/proxy/GetComptesResponse.java
+/workspaces/TP-SOAP-ENICarthage/ClientSOAP2026/target/generated-sources/wsimport/tn/enicarthage/proxy/ObjectFactory.java
+/workspaces/TP-SOAP-ENICarthage/ClientSOAP2026/target/generated-sources/wsimport/tn/enicarthage/proxy/package-info.java
